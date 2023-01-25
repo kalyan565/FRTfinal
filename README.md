@@ -1,8 +1,5 @@
 # FRTfinal
-# project999
 # ✨  Car Clinic ✨
-
-This is a web based application developed for health related based website in india
 
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -14,14 +11,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-
-## Features and Functionalities 😃
-
-- Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, Blog and Car Clinic related information etc.
-- User can know about car clinic information through this website. 
+- Azure bot
 
 ## Screenshots
 
@@ -37,26 +27,13 @@ This is a web based application developed for health related based website in in
 
 ### About Us - https://lemon-moss-0c3945f00.2.azurestaticapps.net/about.html
 
-
-
 ### Services - https://lemon-moss-0c3945f00.2.azurestaticapps.net/services.html
-
-
 
 ### Contact us - https://lemon-moss-0c3945f00.2.azurestaticapps.net/contact.html
 
-
-
 ### Blog - https://lemon-moss-0c3945f00.2.azurestaticapps.net/blog.html
-
-
-
-
 
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
-- CSS
-- Bootstrap
-- JavaScript
