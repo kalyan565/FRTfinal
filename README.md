@@ -37,5 +37,5 @@
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
--Java script
+-JavaScript
 -CSS
